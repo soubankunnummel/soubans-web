@@ -1,0 +1,35 @@
+button{
+    background-color: aqua;
+    color:salmon ;
+}
+#para1{
+    color: hotpink;
+
+}
+#para2{
+    color: indigo;
+}
+.big{
+    color: rgb(95, 219, 213);
+}
+div{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(180, 41, 41);
+    padding: 20px;
+    border: 3px;
+    border-color: black;
+    
+    
+}
+.box{
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.div2{
+    width: 100px;
+    height: 80px;
+    background-color: blue;
+    margin-left: 50px;
+}
+

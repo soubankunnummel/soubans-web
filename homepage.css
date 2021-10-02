@@ -1,0 +1,25 @@
+.banner{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(53, 7, 179);
+}
+.left-bar{
+    width: 150px;
+    height: 480px;
+    background-color: rgb(92, 224, 15);
+    float: left;
+}
+.contect{
+    width: 100%;
+    height: 480px;
+    background-color: rgb(53, 181, 255);
+}
+body{
+    margin: 0px;
+    
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(201, 10, 83);
+}

@@ -1,0 +1,100 @@
+.banner{
+    width: 100%;
+    height: 85px;
+    background: rgb(42, 9, 134);
+}
+body{
+    margin: 0px;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    
+}
+.logo-text{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-size: 35px;
+    text-decoration: none;
+    margin-left: 170px;
+   
+}
+.login-label{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+.login-content{
+    margin-left: 80px;
+}
+.forgoten-text{
+    text-decoration: none;
+    color: #a7a49f;
+    font-family: 'Poppins', sans-serif;
+}
+.button{
+    color: #fff;
+    background: #27348e;
+    margin-left: 15px;
+}
+.left-secction{
+    width: 50%;
+    float: left;
+    
+}
+.right-secction{
+    width: 50%;
+    float: left;
+}
+.main-body{
+    width: 100%;
+    height: 500px;
+    background: linear-gradient(to bottom,white,rgb(188, 198, 201));
+}
+.para{
+    
+    line-height: 0.8cm;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-top: 45px;
+    margin-left: 250px;
+    color: rgb(6, 6, 100);
+}
+.img{
+    width: 499px;
+    padding-left: 228px;
+
+}
+#ac{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+}
+#easy{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.form-content{
+    border-style: solid;
+    border-color: lightblue;
+    border-width: 1px;
+    border-radius: 4px;
+    width: 200px;
+    height: 35px;
+}
+#form-content-b{
+    height: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    height: 35px;
+    border-color: lightblue;
+    width: 416px;
+}
